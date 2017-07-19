@@ -1,0 +1,8 @@
+title: Wandlon.GitHub.io
+description: 猿代码的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
